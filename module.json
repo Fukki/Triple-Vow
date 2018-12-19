@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Triple Vow",
+    "author": "Fukki",
+    "description": "Added 1 target for vow.",
+    "version": "Kappa :v",
+    "options": {
+		"niceName": "Triple Vow"
+    },
+	"servers": ["https://raw.githubusercontent.com/Fukki/triple-vow/master/"],
+	"supportUrl": "https://github.com/Fukki/triple-vow/issues/"
+}
